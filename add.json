@@ -1,0 +1,72 @@
+[
+    {
+        "firstName": "Sachin",
+        "lastName": "Pimpalshende",
+        "address": "Talodhi",
+        "city": "Chandrapur",
+        "state": "Maharastra",
+        "zip": "962377",
+        "phoneNumber": "91 9420553588",
+        "email": "sachin12@gmail.com"
+    },
+    {
+        "firstName": "Neha",
+        "lastName": "Maam",
+        "address": "Talodjdjd",
+        "city": "Uhbaahna",
+        "state": "Kahnahahha",
+        "zip": "442702",
+        "phoneNumber": "91 7057114002",
+        "email": "sahaahhaj1@gmail.com"
+    },
+    {
+        "firstName": "Vaibhav",
+        "lastName": "Dharmik",
+        "address": "Talodhi",
+        "city": "Nagpur",
+        "state": "Maharasra",
+        "zip": "442702",
+        "phoneNumber": "91 7057114002",
+        "email": "vaibhav1@gmail.com"
+    },
+    {
+        "firstName": "Shivani",
+        "lastName": "Rokhade",
+        "address": "Talodhi",
+        "city": "munbaim",
+        "state": "Khahahhaha",
+        "zip": "442702",
+        "phoneNumber": "91 7057114002",
+        "email": "shivani1@gmail.com"
+    },
+    {
+        "firstName": "Santosh",
+        "lastName": "Rautawar",
+        "address": "Talodid",
+        "city": "Ijshshhs",
+        "state": "Poajjaja",
+        "zip": "442702",
+        "phoneNumber": "91 7057114002",
+        "email": "santosh1@gmail.com"
+    },
+    {
+        "firstName": "Sanku",
+        "lastName": "Mesharam",
+        "address": "Talodhi",
+        "city": "Chennai",
+        "state": "Telangana",
+        "zip": "445566",
+        "phoneNumber": "91 9823501485",
+        "email": "sanku1@gmail.com"
+    },
+    {
+        "firstName": "Vinay",
+        "lastName": "Mudigiri",
+        "address": "Talodhi",
+        "city": "Chennai",
+        "state": "Telangana",
+        "zip": "445566",
+        "phoneNumber": "91 7057114002",
+        "email": "vinay1@gmail.com"
+    }
+]
